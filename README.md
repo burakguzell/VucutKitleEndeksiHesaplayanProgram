@@ -5,3 +5,4 @@ Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. 
 Kilo (kg) / Boy(m) * Boy(m)
 
 ### Çıktısı
+![](https://i.hizliresim.com/r1onsz7.png)
